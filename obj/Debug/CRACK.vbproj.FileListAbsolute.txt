@@ -1,0 +1,38 @@
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\bin\Debug\CRACK.exe.config
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\bin\Debug\CRACK.exe
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\bin\Debug\CRACK.pdb
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\bin\Debug\CRACK.xml
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\obj\Debug\CRACK.vbprojResolveAssemblyReference.cache
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\obj\Debug\EL.Form1.resources
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\obj\Debug\EL.Resources.resources
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\obj\Debug\CRACK.vbproj.GenerateResource.Cache
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\obj\Debug\CRACK.exe
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\obj\Debug\CRACK.xml
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\obj\Debug\CRACK.pdb
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\bin\Debug\CRACK.exe.manifest
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\bin\Debug\CRACK.application
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\obj\Debug\CRACK.TrustInfo.xml
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\obj\Debug\CRACK.exe.manifest
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\obj\Debug\CRACK.application
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\bin\Debug\el_crack_dll_.dll
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\bin\Debug\el_crack_dll_.pdb
+C:\Users\mpashkevych\Desktop\PROJ_ALL\CRACK\CRACK\bin\Debug\el_crack_dll_.xml
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\bin\Debug\CRACK.exe.config
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\bin\Debug\CRACK.exe.manifest
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\bin\Debug\CRACK.application
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\bin\Debug\CRACK.exe
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\bin\Debug\CRACK.pdb
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\bin\Debug\CRACK.xml
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\bin\Debug\el_crack_dll_.dll
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\bin\Debug\el_crack_dll_.pdb
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\bin\Debug\el_crack_dll_.xml
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\obj\Debug\CRACK.vbprojResolveAssemblyReference.cache
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\obj\Debug\EL.Form1.resources
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\obj\Debug\EL.Resources.resources
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\obj\Debug\CRACK.vbproj.GenerateResource.Cache
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\obj\Debug\CRACK.TrustInfo.xml
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\obj\Debug\CRACK.exe.manifest
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\obj\Debug\CRACK.application
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\obj\Debug\CRACK.exe
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\obj\Debug\CRACK.xml
+C:\Users\NickTriada\Google Drive\PROJ_ALL\CRACK\CRACK\obj\Debug\CRACK.pdb
